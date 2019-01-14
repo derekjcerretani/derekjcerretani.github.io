@@ -1,11 +1,11 @@
 # Site settings
 author: Derek Cerretani
-title: 
+title: ReadMe
 header-img: img/home-bg.png
 email: derekcerretani@gmail.com
 copyright_name: Derek Cerretani
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Collection of Lessons Learned
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  derekjcerretani

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Building My First Ruby Gem"
-date:       2019-03-16 20:35:59 +0000
+date:       2019-03-16 16:36:00 -0400
 permalink:  building_my_first_ruby_gem
 ---
 
@@ -64,6 +64,8 @@ In order to fix this, I had to abstract my two methods into multiple methods tha
 On a scale of usefulness, I feel the gem barely qualifies, but I assume that a penchant for writing truly useful gems comes after many years of programming and recognizing patterns when debugging or designing. What's more important to me in the current moment is understanding how code can fit together, how objects and methods interact, how to sift through data, and the basics of procedural Ruby. If the CLI project is to be a distillation of everything I've learned since day one, I'm feeling confident in my understanding.
 
 To install TopFilms and review the source code check out [Github](https://github.com/derekjcerretani/top_films)!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ka2ZZ0WZv-E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

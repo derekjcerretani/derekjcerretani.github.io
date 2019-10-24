@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails with Javascript Portfolio Project"
-date:       2019-09-13 18:33:15 +0000
+date:       2019-09-13 14:33:16 -0400
 permalink:  rails_with_javascript_portfolio_project
 ---
 
@@ -60,5 +60,5 @@ If you'd like to see the full source code check out the project on [github.](htt
 
 Below is a video walkthrough of a how a user interacts with KIT.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/22E5t8qpviU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wUWpgFARa8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

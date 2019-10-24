@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Portfolio Project"
-date:       2019-07-21 00:40:29 +0000
+date:       2019-07-20 20:40:30 -0400
 permalink:  rails_portfolio_project
 ---
 
@@ -114,7 +114,7 @@ Follow me on [Twitter](https://twitter.com/rekcera).
 Below is a video walkthrough of how a user interacts with Taut.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rhGBr7ARE60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4voZaO2StFA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

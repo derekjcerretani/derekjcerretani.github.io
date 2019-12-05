@@ -1,0 +1,14 @@
+---
+layout: post
+title:      "I Made It!"
+date:       2019-12-05 21:20:47 +0000
+permalink:  i_made_it
+---
+
+
+Almost a year ago now, with Kelley’s blessing, I signed up for Flatiron School and decided to dedicate myself full-time to learning how to program. Last week I passed my final assessment! It feels good. I’ve spent the last year almost exclusively in front of the computer, nose down in books, watching and listening to tutorials, yelling at my programs, and it’s a little hard to grasp that it’s coming to an end. I know a few of those things will continue, especially the frustration, but so too will that feeling of pride and relief when I squash a bug or solve a problem. I’m really excited to find a job. Learning web development has renewed my passion for work and nourished my creative side that has been starving after years of monotonous work in the service industry. Programming has opened a door to a new world, and there’s so much to explore.
+
+Flatiron is better than I could’ve hoped. The curriculum is outstanding. It helps coming in with some programming knowledge, I myself had been learning on my own through free online tutorials for a couple of years off and on before committing full time, but the foundation they help you lie is sturdy and as the program progresses each new block is set methodically, always in reference to what came before. I highly recommend joining a cohort because having a lead to interact with and answer questions led me to faster breakthroughs and highlighted the necessity of pair programming. 1 on 1’s are invaluable! The same can be said for having other students to work with. I’ve made a couple of close friends that helped lighten the mood, and explore different ways of thinking during the trying times, like project weeks. I’ll have to write an update about career services, but so far it’s been great.
+
+I’ll be updating this blog every week for the foreseeable future as I start my job search, rehashing old lessons and grasping new ones. It’s amazing how much can change in a year. Thank you to Flatiron, Aysan, my cohort friends, and of course Kelley. Here’s to a better future!
+
